@@ -1,3 +1,6 @@
 [submodule "line-chart/single-line-with-tooltip-china-gdp"]
 	path = line-chart/single-line-with-tooltip-china-gdp
 	url = https://gist.github.com/26c7ca2499147578411c6d5001700ae3.git
+[submodule "bar-chart/bar-chart-cpi-over-time"]
+	path = bar-chart/bar-chart-cpi-over-time
+	url = https://gist.github.com/c2f2c4146ad1df26de74b8517ce3f41f.git
