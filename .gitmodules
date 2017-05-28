@@ -4,3 +4,6 @@
 [submodule "bar-chart/bar-chart-cpi-over-time"]
 	path = bar-chart/bar-chart-cpi-over-time
 	url = https://gist.github.com/c2f2c4146ad1df26de74b8517ce3f41f.git
+[submodule "pie-chart/pie-chart-fpds"]
+	path = pie-chart/pie-chart-fpds
+	url = https://gist.github.com/3900002db4f212ad80226cc6d0e8a047.git
