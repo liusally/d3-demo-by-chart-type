@@ -8,3 +8,6 @@ Bar Chart with Groups - CPI Over Time: http://sunny.today/bar-chart-with-groups-
 
 ## Pie Charts
 Pie Chart with Long Labels - US Federal Contracts Spending Distribution (FPDS): http://sunny.today/pie-chart-fpds/
+
+## Tag Clouds
+Tag Cloud - Popular Stack Overflow Tags: http://sunny.today/tag-cloud-popular-stack-overflow-tags/
