@@ -7,3 +7,6 @@
 [submodule "pie-chart/pie-chart-fpds"]
 	path = pie-chart/pie-chart-fpds
 	url = https://gist.github.com/3900002db4f212ad80226cc6d0e8a047.git
+[submodule "tag-cloud/tag-cloud-stackoverflow-tags"]
+	path = tag-cloud/tag-cloud-stackoverflow-tags
+	url = https://gist.github.com/cb3bd8d1a8a7dac3bd483855a9fcd0cc.git
